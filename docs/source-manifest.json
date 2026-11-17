@@ -1,0 +1,40 @@
+{
+  "mvs_hands_clean": {
+    "source_commit": "6c68e46f8cdd246e8c85ceede0713f06553e6851",
+    "imported_source_sha256": {
+      "src/config.py": "3272677f7f441d21f703913aebb343b2a1eb01ed00b29cbd637904516ae0fe88",
+      "src/live_demo.py": "a782afb0af5c77a071e6f0acc78ce21c971f37a9df98f304afdb59f495f489c4",
+      "src/train.py": "9d329fef2f3874e176881c826b1e1fbdb9de4860c7b9c8be89500e2e7ec76cc8",
+      "src/reconstruct_eval_mp.py": "a26fa3c3e3b22655c112c9cd2a73e01eec3f255f67df0ce1553ed4f0709df8bf",
+      "src/reconstruct_eval.py": "e9c217ecb3f36dc5e239148f432fc2fc2c37df0376a9d77d45523e32874d13db",
+      "src/model.py": "389e53645b257b4ce354f6b83482ae846e336fe4f625fac7fe2a77f35ced1b86",
+      "src/dataset.py": "1207977de4fe1561d2994e0a7a0d299ca4ac4fd73b3390944a81ae893c0b734e",
+      "src/reconstruct_eval_sapiens.py": "484b9d9e39d7d779d9757295ebd2fb4e049f4bd9ddd294a3b7a3b9990fda3340",
+      "src/data/cascade_rcnn_x101_64x4d_fpn_1class.py": "7edadc411352f93b02e3d029269295654f6030050ab715b4049abdd5aff09e7a",
+      "src/utils/preprocessing.py": "5579ea9031ae5301761d9cf39cf456e9dff6915c1d53822f93034c9dc29c8bb9",
+      "src/utils/vis.py": "42bf66f6c10e2237d10086ea4e6a5ec5913992a396d71e38f1ea5011e0f16b80"
+    }
+  },
+  "triangulate_clean": {
+    "source_commit": "4f4fd60a5e86b051409e5a28a1fb63af16779791",
+    "imported_source_sha256": {
+      "src/evaluate_pck_json.py": "cc022965c47eb4087dcaac40c4fc4b38e21d22ab3eeb805fe43d200415326212",
+      "src/paper_results_3d_interhand.py": "f1f8d70479feeb11097f289e11dd3e6a7e76b12549984c034254135c8f4eaf1f",
+      "src/convert_gt_keypoint_layout.py": "3b506844675ff9f934ae9b16bdca7e2287d03942d3f7e4847fd81ee4d68832ee",
+      "src/evaluate_2d_candidates.py": "e4550b4f5b0d181dcb520460652890882eb7a76d397b5e29042525953bdea98a",
+      "src/paper_results_3d_own_refined.py": "dff027b4efdf9a91dcd7d35cdfd3f92f3e0c0910eedf33fcb85efcf1944518eb",
+      "src/run_multiview_triangulation.py": "9bf21b76090883f15df8adb9ffd168bec892d871d97564737ba859c4597efb4d",
+      "src/paper_results_3d_own.py": "0e8e1851d913dfe55803c595eac9174d4b0f4775a5b4ffe400f92b94473eb03c",
+      "src/visualize_scene2_joint_views.py": "7f8f4e8c1c9c43cb82869f72a96e3e2d7b99fe49eae378351d7cb521d276b005",
+      "src/paper_results_2d_candidates.py": "ead61fde60e1b1de89d66b73d17932e053a8d33c79570892052b790295dbd13b",
+      "src/evaluate_pck.py": "b193c474302dc31bb43695403bd1c32a54fd2b3324e0d15732a0d591d8202311",
+      "src/pipeline/postprocess.py": "446d3e6109c53313565e3d02a4dcf549d5ecdd47e26b9bf803bb8349f072a7ee",
+      "src/pipeline/triangulation.py": "d6adf63f901211392200697183d9dc207a9a74074c49ef8f479168ea8349cbc9",
+      "src/pipeline/dataloading.py": "2f731eaf82a8ab15a863e53c558c1191f322e9c9a861a4f934c4db62eaa7bc1c",
+      "src/pipeline/preprocessing.py": "9efa5e921d557dbfb39b3de5dad28ab9e015e84342b48a134fe96ff147020b94",
+      "src/pipeline/visualization.py": "d5d5efd9c95c3feba3f24a791d9760569399425f8fbc97d7b44134e9839e1ede",
+      "src/pipeline/geometry.py": "926abcd1f2df570f3d41b6d6dd07e3d0cdc3ee4d290d424fb18bedd103114318",
+      "src/pipeline/__init__.py": "e493091b242feaab1fff53e48f893b4415ffec17fe7eb77f9f68189af012f608"
+    }
+  }
+}

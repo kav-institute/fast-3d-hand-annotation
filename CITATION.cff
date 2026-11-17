@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Please cite the associated ACDSA 2027 paper when using this code. Publication DOI and page numbers are pending."
+title: "Fast 3D Hand Annotation via Multi-View Pseudo-Labels and Aggregated Nonlinear Triangulation"
+type: software
+authors:
+  - family-names: Hubert
+    given-names: Andreas
+    orcid: "https://orcid.org/0000-0002-3970-0253"
+  - family-names: Doll
+    given-names: Konrad
+    orcid: "https://orcid.org/0000-0002-3746-2319"
+  - family-names: Sick
+    given-names: Bernhard
+    orcid: "https://orcid.org/0000-0001-9467-656X"
+repository-code: "https://github.com/kav-institute/fast-3d-hand-annotation"

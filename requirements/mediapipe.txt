@@ -1,0 +1,5 @@
+# This version exposes the legacy solutions.hands interface used by the adapter.
+# opencv-contrib-python replaces opencv-python; use a separate environment.
+numpy>=1.24,<2
+opencv-contrib-python>=4.8,<4.12
+mediapipe==0.10.21

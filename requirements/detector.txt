@@ -1,0 +1,6 @@
+-r ../requirements.txt
+# Install torch and torchvision together for your CPU/CUDA platform first.
+torch>=2.1
+torchvision>=0.16
+timm>=1.0
+pycocotools>=2.0
